@@ -1,5 +1,5 @@
 // Public Class name should be same as the file Name
-public class OOPS_1 {
+public class Encapsulation {
 
     public static void main(String args[]) {
 
